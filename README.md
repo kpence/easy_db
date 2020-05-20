@@ -1,3 +1,8 @@
+NOTE:
+
+This is a fork from the original repo in order for me to add changes and make pull requests.
+If you want to use easy_db, go [here](https://github.com/zachbateman/easy_db)
+
 # easy_db
 
 easy_db is a tool designed to quickly allow Python database interaction capabilities from a consolidated, intuitive user interface provided by the "DataBase" class.
